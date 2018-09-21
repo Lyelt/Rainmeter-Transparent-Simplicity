@@ -1,0 +1,1 @@
+Rainmeter Transparent Simplicity

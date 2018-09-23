@@ -23,6 +23,9 @@ A simple package with the following features:
 * To use the audio device switcher:
   * Determine the index of the desired audio devices by navigating to Sound Settings > Choose your output device
   * Modify the SetOutPutIndex number in Change.ini to match the index of the corresponding output devices
+* To use the Disk skins:
+  * Add or delete the skins based on your drive setup
+  * Edit each Transparent-Disk.ini and set the Drive variable to an appropriate drive letter
   
   ## TODO
   

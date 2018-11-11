@@ -29,5 +29,6 @@ A simple package with the following features:
   
   ## TODO
   
+  - [x] Allow scrolling to resize the various controls
   - [ ] Make the color of the text/bars/images customizable via a global variable
   - [ ] Create .rmskin installer(s)
